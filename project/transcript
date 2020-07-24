@@ -1,0 +1,22 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# ** Error: (vish-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vish-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+# OpenFile C:/Modeltech_pe_edu_10.4a/examples/project/adder.v
+# Loading project project2
+# Compile of adder.v was successful.
+# Compile of alu_32.v was successful.
+# Compile of alucont.v was successful.
+# Compile of control.v was successful.
+# Compile of JandB_control.v was successful.
+# Compile of mult2_to_1_5.v was successful.
+# Compile of mult2_to_1_32.v was successful.
+# Compile of mult2_to_32.v was successful.
+# Compile of mult3_32_1.v was successful.
+# Compile of ori_instruction.v was successful.
+# Compile of processor.v was successful.
+# Compile of shift.v was successful.
+# Compile of signext.v was successful.
+# Compile of sll_instruction.v was successful.
+# 14 compiles, 0 failed with no errors.

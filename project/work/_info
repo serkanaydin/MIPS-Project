@@ -1,0 +1,305 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Modeltech_pe_edu_10.4a/examples/project
+vadder
+Z1 !s110 1592127110
+!i10b 1
+!s100 Y;`Fz?LjC0QzPeNWf8_U<1
+Ihc83McAC><ENonW6KZdd51
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1591787764
+8C:/Modeltech_pe_edu_10.4a/examples/project/adder.v
+FC:/Modeltech_pe_edu_10.4a/examples/project/adder.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1592127110.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/project/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/project/adder.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+valu_32
+R1
+!i10b 1
+!s100 F:nI`7iL9cF[HfQPE11KB2
+IahleOXQmMV`YBMK541lRY3
+R2
+R0
+w1592123329
+8C:/Modeltech_pe_edu_10.4a/examples/project/alu_32.v
+FC:/Modeltech_pe_edu_10.4a/examples/project/alu_32.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Modeltech_pe_edu_10.4a/examples/project/alu_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/project/alu_32.v|
+!s101 -O0
+!i113 1
+R5
+valucont
+R1
+!i10b 1
+!s100 obk2gajXTIDTVlVbRCHIa1
+IKSG3Q[C;NoL7n6I2UYW>S1
+R2
+R0
+w1591898659
+8C:/Modeltech_pe_edu_10.4a/examples/project/alucont.v
+FC:/Modeltech_pe_edu_10.4a/examples/project/alucont.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Modeltech_pe_edu_10.4a/examples/project/alucont.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/project/alucont.v|
+!s101 -O0
+!i113 1
+R5
+vcontrol
+R1
+!i10b 1
+!s100 =]@PYRFkDjo@oc_UgVjf13
+Ia[ZihKdf:Xj>]5490<VJJ2
+R2
+R0
+w1592066007
+8C:/Modeltech_pe_edu_10.4a/examples/project/control.v
+FC:/Modeltech_pe_edu_10.4a/examples/project/control.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Modeltech_pe_edu_10.4a/examples/project/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/project/control.v|
+!s101 -O0
+!i113 1
+R5
+vJandBcon
+Z6 !s110 1592127111
+!i10b 1
+!s100 RDA3cb=So30Ea]AF_W3Y80
+I^H>Z9N8l]dmcd4][>5i=70
+R2
+R0
+w1591953214
+8C:/Modeltech_pe_edu_10.4a/examples/project/JandB_control.v
+FC:/Modeltech_pe_edu_10.4a/examples/project/JandB_control.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Modeltech_pe_edu_10.4a/examples/project/JandB_control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/project/JandB_control.v|
+!s101 -O0
+!i113 1
+R5
+n@jand@bcon
+vmult2_to_1_32
+R6
+!i10b 1
+!s100 ^aXF>kbOQm5iDYT=bV7M11
+I:;Kg_2<KKWimikBT>AKRK0
+R2
+R0
+w1591794182
+8C:/Modeltech_pe_edu_10.4a/examples/project/mult2_to_1_32.v
+FC:/Modeltech_pe_edu_10.4a/examples/project/mult2_to_1_32.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1592127111.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/project/mult2_to_1_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/project/mult2_to_1_32.v|
+!s101 -O0
+!i113 1
+R5
+vmult2_to_1_5
+R6
+!i10b 1
+!s100 `n@0>>PB64IK]FDP8HL170
+Iz0KGGE`LgMJPi;>nd<VFG3
+R2
+R0
+w1591867868
+8C:/Modeltech_pe_edu_10.4a/examples/project/mult2_to_1_5.v
+FC:/Modeltech_pe_edu_10.4a/examples/project/mult2_to_1_5.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Modeltech_pe_edu_10.4a/examples/project/mult2_to_1_5.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/project/mult2_to_1_5.v|
+!s101 -O0
+!i113 1
+R5
+vmult2_to_32
+R6
+!i10b 1
+!s100 mb6W0GoBlYEI?POJ^Ofca1
+IB0Ha13EWV=jLEYJDGZh7:2
+R2
+R0
+w1591953399
+8C:/Modeltech_pe_edu_10.4a/examples/project/mult2_to_32.v
+FC:/Modeltech_pe_edu_10.4a/examples/project/mult2_to_32.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Modeltech_pe_edu_10.4a/examples/project/mult2_to_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/project/mult2_to_32.v|
+!s101 -O0
+!i113 1
+R5
+vmult3_32_1
+R6
+!i10b 1
+!s100 A[Uo65KRYcDK]04hQ8DRA3
+I2ahmJ`H2^TjVIGS=<_PDe0
+R2
+R0
+w1591865307
+8C:/Modeltech_pe_edu_10.4a/examples/project/mult3_32_1.v
+FC:/Modeltech_pe_edu_10.4a/examples/project/mult3_32_1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Modeltech_pe_edu_10.4a/examples/project/mult3_32_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/project/mult3_32_1.v|
+!s101 -O0
+!i113 1
+R5
+vori_instruction
+R6
+!i10b 1
+!s100 :R_iW^>TXGfFI=>NXOT>T3
+I:0cZa4V4WNFCBP3ES[D2P2
+R2
+R0
+w1591901987
+8C:/Modeltech_pe_edu_10.4a/examples/project/ori_instruction.v
+FC:/Modeltech_pe_edu_10.4a/examples/project/ori_instruction.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Modeltech_pe_edu_10.4a/examples/project/ori_instruction.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/project/ori_instruction.v|
+!s101 -O0
+!i113 1
+R5
+vprocessor
+R6
+!i10b 1
+!s100 PJeTcX;6lkOzGVKQ<4oAh0
+I<;;z?HAoRM0k]TQ_XRQKf0
+R2
+R0
+w1592121571
+8C:/Modeltech_pe_edu_10.4a/examples/project/processor.v
+FC:/Modeltech_pe_edu_10.4a/examples/project/processor.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Modeltech_pe_edu_10.4a/examples/project/processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/project/processor.v|
+!s101 -O0
+!i113 1
+R5
+vshift
+R6
+!i10b 1
+!s100 GWP55OEfIRVA_6M>iSY8d2
+IC9RF:Y;[;YZ<D>XMX712A0
+R2
+R0
+Z8 w1591787763
+8C:/Modeltech_pe_edu_10.4a/examples/project/shift.v
+FC:/Modeltech_pe_edu_10.4a/examples/project/shift.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Modeltech_pe_edu_10.4a/examples/project/shift.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/project/shift.v|
+!s101 -O0
+!i113 1
+R5
+vsignext
+R6
+!i10b 1
+!s100 JAEfRFLIAaX=@V<j@h[jS1
+ICl88f=b]?7P<g5CnC]EkA0
+R2
+R0
+R8
+8C:/Modeltech_pe_edu_10.4a/examples/project/signext.v
+FC:/Modeltech_pe_edu_10.4a/examples/project/signext.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Modeltech_pe_edu_10.4a/examples/project/signext.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/project/signext.v|
+!s101 -O0
+!i113 1
+R5
+vsll_instruction
+R6
+!i10b 1
+!s100 7^W7?]T1=<37O4nf1iKda1
+IP`PZ1G?[__TdRDM<<hIj80
+R2
+R0
+w1591901971
+8C:/Modeltech_pe_edu_10.4a/examples/project/sll_instruction.v
+FC:/Modeltech_pe_edu_10.4a/examples/project/sll_instruction.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Modeltech_pe_edu_10.4a/examples/project/sll_instruction.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/project/sll_instruction.v|
+!s101 -O0
+!i113 1
+R5
